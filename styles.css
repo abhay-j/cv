@@ -1,0 +1,24 @@
+body {
+		background-color: #f1e3cb;
+
+	}
+hr {
+		background-color: #f1e3cb;
+		
+		height: 0px;
+		width: 10%;
+		
+		border-style: dotted none none;
+		border-color: #f9b384;
+		border-width: 5px;
+		/* go to the following website to understand why i put 2 none values after dotted https://developer.mozilla.org/en-US/docs/Web/CSS/border-style*/
+	}
+
+h3{
+	color: #ca5116;
+
+}
+h1{
+	color: #581c0c;
+
+}
